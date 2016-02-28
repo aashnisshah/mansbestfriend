@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Man's Best Friend",
+  "description": "Need a pick-me-up? Why not stare at an adorable picture of a man's best friend?",
+  "version": "1.0",
+
+  "icons": {
+    "16": "16icon.png",
+    "32": "32icon.png",
+    "48": "48icon.png",
+    "128": "128icon.png"
+  },
+  "author": "aashnisshah",
+
+  "browser_action": {
+    "default_icon": "48icon.png",
+    "default_popup": "popup.html"
+  }
+}
